@@ -102,3 +102,4 @@ it('Should return 535 when 535 given', () => {
 
   assert.equal(reversed, 535);
 });
+
